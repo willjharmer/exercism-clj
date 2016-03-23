@@ -7,8 +7,7 @@
 
 (defn yelling? 
   [str]
-  (and (not (string/blank? (remove_punc str))) 
-  (every? #(Character/isUpperCase %)(remove_punc str))))
+  (and (not (string/blank? (remove_punc str))) (every? #(Character/isUpperCase %) (remove_punc str))))
 
 (defn response-for
   [cmd]
