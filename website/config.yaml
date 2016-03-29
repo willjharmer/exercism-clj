@@ -3,15 +3,15 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://willjharmer.github.io/exercism-clojure"
+baseurl: "http://willjharmer.github.io/exercism-clj"
 title: "Exercism Clojure"
 canonifyurls: true
 params:
   description: "Practising TDD idiomatic Clojure"
   author_url: "http://github.com/willjharmer"
-  project_url: "http://github.com/willjharmer/exercism-clojure"
+  project_url: "http://github.com/willjharmer/exercism-clj"
   github_user_name: "willjharmer"
-  travis_badge: "https://travis-ci.org/willjharmer/exercism-clojure.svg?branch=develop"
+  travis_badge: "https://travis-ci.org/willjharmer/exercism-clj.svg?branch=develop"
 
   first_color: "#f8f8f8"
   first_border_color: "#e7e7e7"
