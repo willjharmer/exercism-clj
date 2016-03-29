@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://willjharmer.github.io/exercism-clojure/</loc>
+    <loc>http://willjharmer.github.io/exercism-clj/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://willjharmer.github.io/exercism-clojure/img/intro-bg/</loc>
+    <loc>http://willjharmer.github.io/exercism-clj/img/intro-bg/</loc>
   </url>
   
   <url>
-    <loc>http://willjharmer.github.io/exercism-clojure/post/first/</loc>
+    <loc>http://willjharmer.github.io/exercism-clj/post/first/</loc>
     <lastmod>2016-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://willjharmer.github.io/exercism-clojure/post/second/</loc>
+    <loc>http://willjharmer.github.io/exercism-clj/post/second/</loc>
     <lastmod>2016-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://willjharmer.github.io/exercism-clojure/post/third/</loc>
+    <loc>http://willjharmer.github.io/exercism-clj/post/third/</loc>
     <lastmod>2016-03-16T00:00:00+00:00</lastmod>
   </url>
   
