@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exercism Clojure</title>
-    <link>http://willjharmer.github.io/exercism-clojure/</link>
+    <link>http://willjharmer.github.io/exercism-clj/</link>
     <description>Recent content on Exercism Clojure</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://willjharmer.github.io/exercism-clojure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://willjharmer.github.io/exercism-clj/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://willjharmer.github.io/exercism-clojure/img/intro-bg/</link>
+      <link>http://willjharmer.github.io/exercism-clj/img/intro-bg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://willjharmer.github.io/exercism-clojure/img/intro-bg/</guid>
+      <guid>http://willjharmer.github.io/exercism-clj/img/intro-bg/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -258,7 +258,7 @@ Get help&lt;/p&gt;
 
 
 
-&lt;script data-no-instant&gt;document.write(&#39;&lt;script src=&#34;http://willjharmer.github.io/exercism-clojure/livereload.js?mindelay=10&#34;&gt;&lt;/&#39; + &#39;script&gt;&#39;)&lt;/script&gt;&lt;/body&gt;
+&lt;script data-no-instant&gt;document.write(&#39;&lt;script src=&#34;http://willjharmer.github.io/exercism-clj/livereload.js?mindelay=10&#34;&gt;&lt;/&#39; + &#39;script&gt;&#39;)&lt;/script&gt;&lt;/body&gt;
 &lt;/html&gt;
 
 </description>
@@ -266,20 +266,20 @@ Get help&lt;/p&gt;
     
     <item>
       <title>What is this?</title>
-      <link>http://willjharmer.github.io/exercism-clojure/post/first/</link>
+      <link>http://willjharmer.github.io/exercism-clj/post/first/</link>
       <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://willjharmer.github.io/exercism-clojure/post/first/</guid>
+      <guid>http://willjharmer.github.io/exercism-clj/post/first/</guid>
       <description>&lt;p&gt;This project records my progress in completing the Clojure TDD katas on Exercism.io. I want to use the project as a place to not only record my progress but to also demonstrate best practice in a Clojure TDD project, that build&amp;rsquo;s on Travis CI.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Usage</title>
-      <link>http://willjharmer.github.io/exercism-clojure/post/second/</link>
+      <link>http://willjharmer.github.io/exercism-clj/post/second/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://willjharmer.github.io/exercism-clojure/post/second/</guid>
+      <guid>http://willjharmer.github.io/exercism-clj/post/second/</guid>
       <description>&lt;p&gt;In order to run the tests or use the code, you will need to install Leiningen v 2.6.1. To install and run the tests with lein, do the following:&lt;/p&gt;
 
 &lt;p&gt;#TODO: Complete how to run once you know how from travis&lt;/p&gt;
@@ -293,10 +293,10 @@ Get help&lt;/p&gt;
     
     <item>
       <title>Contact Me</title>
-      <link>http://willjharmer.github.io/exercism-clojure/post/third/</link>
+      <link>http://willjharmer.github.io/exercism-clj/post/third/</link>
       <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://willjharmer.github.io/exercism-clojure/post/third/</guid>
+      <guid>http://willjharmer.github.io/exercism-clj/post/third/</guid>
       <description>&lt;p&gt;Feel free to contact me about any of this. You can get me at:&lt;/p&gt;
 
 &lt;ul&gt;
