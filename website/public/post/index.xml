@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Exercism Clojure</title>
+    <link>http://willjharmer.github.io/exercism-clojure/post/</link>
+    <description>Recent content in Posts on Exercism Clojure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 14 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://willjharmer.github.io/exercism-clojure/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What is this?</title>
+      <link>http://willjharmer.github.io/exercism-clojure/post/first/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://willjharmer.github.io/exercism-clojure/post/first/</guid>
+      <description>&lt;p&gt;This project records my progress in completing the Clojure TDD katas on Exercism.io. I want to use the project as a place to not only record my progress but to also demonstrate best practice in a Clojure TDD project, that build&amp;rsquo;s on Travis CI.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Usage</title>
+      <link>http://willjharmer.github.io/exercism-clojure/post/second/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://willjharmer.github.io/exercism-clojure/post/second/</guid>
+      <description>&lt;p&gt;In order to run the tests or use the code, you will need to install Leiningen v 2.6.1. To install and run the tests with lein, do the following:&lt;/p&gt;
+
+&lt;p&gt;#TODO: Complete how to run once you know how from travis&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;  git clone this repo
+  install Leiningen
+  run lein test and have it run recursively in all subfolders
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://willjharmer.github.io/exercism-clojure/post/third/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://willjharmer.github.io/exercism-clojure/post/third/</guid>
+      <description>&lt;p&gt;Feel free to contact me about any of this. You can get me at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Twitter &lt;a href=&#34;https://twitter.com/harmer_will&#34;&gt;@harmer_will&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LinkedIn &lt;a href=&#34;http://uk.linkedin.com/in/william-harmer-3a836a18&#34;&gt;William Harmer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
